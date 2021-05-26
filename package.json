@@ -4,7 +4,8 @@
   "description": "ウェブノススメ",
   "repository": "https://github.com/ygkn/encouragement-of-web.git",
   "scripts": {
-    "dev": "fusuma start"
+    "dev": "fusuma start",
+    "build": "fusuma build"
   },
   "author": "ygkn <2000ygkn0713@gmail.com>",
   "license": "MIT",
