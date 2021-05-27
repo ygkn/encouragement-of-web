@@ -1,9 +1,9 @@
 meta:
-  url:
-  title:
-  description:
-  siteName:
-  sns: ['twitter']
+  url: https://ygkn.github.io/encouragement-of-web/
+  title: ウェブノススメ
+  description: Encouragement of Web.
+  siteName: ウェブノススメ
+  sns: ["twitter"]
 slide:
   loop: false
   ui:
