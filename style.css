@@ -37,9 +37,7 @@
   top: 0;
   left: 0;
   pointer-events: none;
-  background-image: url(./images/footer.svg);
-  background-repeat: no-repeat;
-  background-position: bottom;
+  background: url(./images/footer.svg) no-repeat bottom;
   background-size: contain;
   z-index: 1;
 }
