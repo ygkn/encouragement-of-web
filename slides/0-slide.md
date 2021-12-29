@@ -56,14 +56,14 @@
 
 Web を作るのは自分たち
 
-- 仕様はで非営利団体が策定、GitHub で公開
+- 仕様は非営利団体が策定、GitHub で公開
 - Extensible Web
 
 ---
 
 ## 後方互換性
 
-- Web 標準の中ではでは急に Web ページが壊れない
+- Web 標準の中では急に Web ページが壊れない
 - [最初の Web ページ](http://info.cern.ch/hypertext/WWW/TheProject.html) が最新のブラウザで表示される！
 
 ---
